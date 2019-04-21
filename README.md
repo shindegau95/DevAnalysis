@@ -10,4 +10,4 @@ The project aims to learn the upcomming trend based on certain paramenters and l
 
 The project is aimed to be completed through the following phases.
 
-1 Phase 1 (Data Analysis) using StackOverflow 2017 csv
+1. Phase 1 (Data Analysis) using StackOverflow 2017 csv
